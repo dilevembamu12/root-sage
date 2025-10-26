@@ -89,16 +89,16 @@
           <mxGeometry x="364" y="258" width="89" height="65" as="geometry" />
         </mxCell>
         <mxCell id="h6MSf3RvYbGWdEoYm4mV-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFE599);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#000000);" vertex="1" parent="1">
-          <mxGeometry x="182" y="-10" width="430" height="650" as="geometry" />
+          <mxGeometry x="182" y="-100" width="430" height="740" as="geometry" />
         </mxCell>
         <mxCell id="h6MSf3RvYbGWdEoYm4mV-23" value="&lt;b&gt;Fintrax - CNSS Adaptateur&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFE599);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#000000);" vertex="1" parent="1">
           <mxGeometry x="236" y="626" width="346" height="25" as="geometry" />
         </mxCell>
         <mxCell id="h6MSf3RvYbGWdEoYm4mV-38" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;WAF - Pare-feu Applicatif&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;ModSecurity&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFD966);strokeColor=light-dark(#006EAF,#000000);" vertex="1" parent="1">
-          <mxGeometry x="307" y="-31" width="180" height="30" as="geometry" />
+          <mxGeometry x="307" y="-111" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6MSf3RvYbGWdEoYm4mV-49" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="226" y="99" width="344" height="100" as="geometry" />
+          <mxGeometry x="226" y="26" width="344" height="100" as="geometry" />
         </mxCell>
         <mxCell id="h6MSf3RvYbGWdEoYm4mV-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFE599);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#000000);" vertex="1" parent="h6MSf3RvYbGWdEoYm4mV-49">
           <mxGeometry x="1" y="4" width="343" height="96" as="geometry" />
@@ -113,10 +113,10 @@
           <mxGeometry x="234" y="25" width="89" height="65" as="geometry" />
         </mxCell>
         <mxCell id="h6MSf3RvYbGWdEoYm4mV-50" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;s.gateway&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;API / EJS&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFD966);strokeColor=light-dark(#006EAF,#000000);" vertex="1" parent="1">
-          <mxGeometry x="357" y="32" width="84" height="30" as="geometry" />
+          <mxGeometry x="357" y="-41" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h6MSf3RvYbGWdEoYm4mV-56" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="192" y="216" width="344" height="300" as="geometry" />
+          <mxGeometry x="192" y="143" width="344" height="300" as="geometry" />
         </mxCell>
         <mxCell id="h6MSf3RvYbGWdEoYm4mV-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFE599);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#000000);" vertex="1" parent="h6MSf3RvYbGWdEoYm4mV-56">
           <mxGeometry x="1" y="7.2" width="309" height="252.8" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry x="188" y="214" width="110" height="36" as="geometry" />
         </mxCell>
         <mxCell id="h6MSf3RvYbGWdEoYm4mV-62" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="182" y="-169" width="430" height="108" as="geometry" />
+          <mxGeometry x="182" y="-240" width="430" height="108" as="geometry" />
         </mxCell>
         <mxCell id="h6MSf3RvYbGWdEoYm4mV-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFE599);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#000000);" vertex="1" parent="h6MSf3RvYbGWdEoYm4mV-62">
           <mxGeometry width="430" height="108" as="geometry" />
@@ -156,6 +156,21 @@
         </mxCell>
         <mxCell id="h6MSf3RvYbGWdEoYm4mV-36" value="Utilisateurs" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="h6MSf3RvYbGWdEoYm4mV-62">
           <mxGeometry x="10" y="3" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h6MSf3RvYbGWdEoYm4mV-64" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="343" y="410" width="344" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="h6MSf3RvYbGWdEoYm4mV-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFE599);fontColor=#ffffff;strokeColor=light-dark(#006EAF,#000000);" vertex="1" parent="h6MSf3RvYbGWdEoYm4mV-64">
+          <mxGeometry x="1" y="7.2" width="259" height="192.8" as="geometry" />
+        </mxCell>
+        <mxCell id="h6MSf3RvYbGWdEoYm4mV-66" value="&lt;span style=&quot;color: rgb(249, 255, 254); font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Domaine Prestations (Métie)&lt;/font&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#000000);labelBackgroundColor=none;fontStyle=1" vertex="1" parent="h6MSf3RvYbGWdEoYm4mV-64">
+          <mxGeometry x="42" width="110" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="h6MSf3RvYbGWdEoYm4mV-67" value="&lt;font face=&quot;trebuchet ms, verdana, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;s.paiements&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;i style=&quot;text-wrap-mode: nowrap; font-family: &amp;quot;trebuchet ms&amp;quot;, verdana, arial, sans-serif; background-color: transparent;&quot;&gt;pensions :Payout G2P&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFD966);fontColor=light-dark(#000000,#000000);textShadow=0;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="h6MSf3RvYbGWdEoYm4mV-64">
+          <mxGeometry x="20" y="45" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="h6MSf3RvYbGWdEoYm4mV-69" value="&lt;font face=&quot;trebuchet ms, verdana, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;s.prestations&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;trebuchet ms, verdana, arial, sans-serif&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;i&gt;Gère dossiers&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;trebuchet ms, verdana, arial, sans-serif&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;i&gt;retraités, Décès,...&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFD966);fontColor=light-dark(#000000,#000000);textShadow=0;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="h6MSf3RvYbGWdEoYm4mV-64">
+          <mxGeometry x="141.5" y="133" width="110" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
