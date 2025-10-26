@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
+  <diagram name="Page-1" id="pd06vX8_QuLK6uD4RIAm">
+    <mxGraphModel dx="1158" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qGJKDMODFNkzlP_5_Htt-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFF2CC);fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="10" y="710" width="800" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="qGJKDMODFNkzlP_5_Htt-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFF2CC);fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1040" width="340" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qGJKDMODFNkzlP_5_Htt-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFE599);fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="20" y="720" width="530" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="qGJKDMODFNkzlP_5_Htt-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#1BA1E2,#FFE599);fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="570" y="850" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qGJKDMODFNkzlP_5_Htt-5" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;STOCKAGE&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="590" y="860" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="qGJKDMODFNkzlP_5_Htt-6" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b&gt;POSGRESQL&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFD966);" vertex="1" parent="1">
+          <mxGeometry x="580" y="890" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qGJKDMODFNkzlP_5_Htt-7" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b&gt;MINIO&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#FFD966);" vertex="1" parent="1">
+          <mxGeometry x="690" y="890" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qGJKDMODFNkzlP_5_Htt-8" value="&lt;b&gt;AI AGENT&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFD966);" vertex="1" parent="1">
+          <mxGeometry x="570" y="720" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qGJKDMODFNkzlP_5_Htt-10" value="&lt;font face=&quot;trebuchet ms, verdana, arial, sans-serif&quot; color=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;FintraX&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;trebuchet ms, verdana, arial, sans-serif&quot; color=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Switch Paiement&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;trebuchet ms, verdana, arial, sans-serif&quot; color=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;(Mojaloop)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;trebuchet ms, verdana, arial, sans-serif&quot; color=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;trebuchet ms, verdana, arial, sans-serif&quot; color=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Collecte (C2G) et&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;trebuchet ms, verdana, arial, sans-serif&quot; color=&quot;#3e3e3e&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Payout (G2P)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFD966);" vertex="1" parent="1">
+          <mxGeometry x="210" y="780" width="150" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="qGJKDMODFNkzlP_5_Htt-11" value="&lt;font face=&quot;trebuchet ms, verdana, arial, sans-serif&quot; color=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;FintraX&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot; face=&quot;trebuchet ms, verdana, arial, sans-serif&quot; color=&quot;#3e3e3e&quot;&gt;&lt;b style=&quot;font-size: 13px; text-wrap-mode: nowrap;&quot;&gt;Couche Règlementaire&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Règles&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot; face=&quot;trebuchet ms, verdana, arial, sans-serif&quot; color=&quot;#3e3e3e&quot;&gt;&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Taxe&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot; face=&quot;trebuchet ms, verdana, arial, sans-serif&quot; color=&quot;#3e3e3e&quot;&gt;&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Ancrage Blockchain&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFD966);" vertex="1" parent="1">
+          <mxGeometry x="390" y="780" width="150" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="qGJKDMODFNkzlP_5_Htt-12" value="&lt;font face=&quot;trebuchet ms, verdana, arial, sans-serif&quot; color=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;FintraX-KPI&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;trebuchet ms, verdana, arial, sans-serif&quot; color=&quot;#3e3e3e&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;trebuchet ms, verdana, arial, sans-serif&quot; color=&quot;#3e3e3e&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Certification et&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;trebuchet ms, verdana, arial, sans-serif&quot; color=&quot;#3e3e3e&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;Identité souveraine&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;trebuchet ms, verdana, arial, sans-serif&quot;&gt;&lt;font color=&quot;#b8b8b8&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;&lt;b&gt;FBB-CA / HSM&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFD966);" vertex="1" parent="1">
+          <mxGeometry x="30" y="780" width="160" height="220" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
