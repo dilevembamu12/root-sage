@@ -112,6 +112,9 @@
         <mxCell id="h6MSf3RvYbGWdEoYm4mV-36" value="Utilisateurs" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="h6MSf3RvYbGWdEoYm4mV-37">
           <mxGeometry x="10" y="3" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="h6MSf3RvYbGWdEoYm4mV-38" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;WAF - Pare-feu Applicatif&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b style=&quot;&quot;&gt;ModSecurity&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFD966);strokeColor=light-dark(#006EAF,#000000);" vertex="1" parent="h6MSf3RvYbGWdEoYm4mV-37">
+          <mxGeometry x="125" y="160" width="180" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
