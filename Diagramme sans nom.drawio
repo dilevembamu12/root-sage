@@ -61,6 +61,15 @@
         <mxCell id="h6MSf3RvYbGWdEoYm4mV-15" value="Fintrax Adaptateur" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=light-dark(#000000,#000000);labelBackgroundColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="144" y="693" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="h6MSf3RvYbGWdEoYm4mV-17" value="&lt;font face=&quot;trebuchet ms, verdana, arial, sans-serif&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;&lt;b style=&quot;&quot;&gt;Transfert API (mTLS)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFD966);fontColor=light-dark(#000000,#000000);textShadow=0;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="160" y="718" width="170" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="h6MSf3RvYbGWdEoYm4mV-18" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot; face=&quot;trebuchet ms, verdana, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;&lt;b style=&quot;&quot;&gt;Event (KafKa)&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFD966);strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="336" y="718" width="160" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="h6MSf3RvYbGWdEoYm4mV-19" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot; face=&quot;trebuchet ms, verdana, arial, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px; text-wrap-mode: nowrap;&quot;&gt;&lt;b style=&quot;&quot;&gt;MCP Clients&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFD966);strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="507" y="718" width="160" height="27" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
